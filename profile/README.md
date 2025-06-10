@@ -26,3 +26,15 @@
 | <img src="https://avatars.githubusercontent.com/u/155413606?v=4" width=130px alt="권민석"> | <img src="https://avatars.githubusercontent.com/u/186993697?v=4" width=150px  alt="김도연"> | <img src="https://avatars.githubusercontent.com/u/204486384?v=4" width=150px alt="김시우"> | <img src="https://avatars.githubusercontent.com/u/204446910?v=4" width=150px alt="신재우"> | <img src="https://avatars.githubusercontent.com/u/138513591?v=4" width=150px alt="양서윤"> | <img src="https://avatars.githubusercontent.com/u/204447212?v=4" width=150px alt="이도원"> |
 | [@kwonminseok242](https://github.com/kwonminseok242) | [@kxmdoyn](https://github.com/kxmdoyn) | [@siu001990](https://github.com/siu001990) | [@Shinjaewooo](https://github.com/Shinjaewooo)  |  [@seoyun0311](https://github.com/seoyun0311) | [@leedw21](https://github.com/leedw21) |
 
+<br>
+
+## 프로젝트 프로세스
+![image](https://github.com/user-attachments/assets/9e6d5dd4-0e22-4b2b-80e2-beeb6ba61486)
+<br>
+
+## 예측을 위한 딥러닝 기반 시계열 회귀모델 선정
+![image](https://github.com/user-attachments/assets/ce9a8dc8-f181-45d7-877a-68fee4b87a86)
+<br>
+
+## TCN 기반 OHT 열화 모니터링 시스템
+![모니터링 시연영상](https://github.com/user-attachments/assets/bf89aff3-28c3-4c95-9434-0d54151279e1)
