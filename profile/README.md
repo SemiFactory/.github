@@ -33,7 +33,7 @@
 <br>
 
 ## 예측을 위한 딥러닝 기반 시계열 회귀모델 선정
-![image](https://github.com/user-attachments/assets/ce9a8dc8-f181-45d7-877a-68fee4b87a86)
+<img src="https://github.com/user-attachments/assets/ce9a8dc8-f181-45d7-877a-68fee4b87a86" height=360>
 <br>
 
 ## TCN 기반 OHT 열화 모니터링 시스템
