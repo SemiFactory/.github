@@ -23,6 +23,6 @@
 ## 팀 구성원
 |  권민석  |  김도연  |  김시우  |  신재우  |  양서윤  |  이도원  |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | 
-| <img src="https://avatars.githubusercontent.com/u/155413606?v=4" width=150px height=150px alt="권민석"> | <img src="https://avatars.githubusercontent.com/u/186993697?v=4" width=150px height=150px alt="김도연"> | <img src="https://avatars.githubusercontent.com/u/204486384?v=4" width=150px height=150px alt="김시우"> | <img src="https://avatars.githubusercontent.com/u/204446910?v=4" width=150px height=150px alt="신재우"> | <img src="https://avatars.githubusercontent.com/u/138513591?v=4" width=150px height=150px alt="양서윤"> | <img src="https://avatars.githubusercontent.com/u/204447212?v=4" width=150px height=150px alt="이도원"> |
+| <img src="https://avatars.githubusercontent.com/u/155413606?v=4" width=130px alt="권민석"> | <img src="https://avatars.githubusercontent.com/u/186993697?v=4" width=150px  alt="김도연"> | <img src="https://avatars.githubusercontent.com/u/204486384?v=4" width=150px alt="김시우"> | <img src="https://avatars.githubusercontent.com/u/204446910?v=4" width=150px alt="신재우"> | <img src="https://avatars.githubusercontent.com/u/138513591?v=4" width=150px alt="양서윤"> | <img src="https://avatars.githubusercontent.com/u/204447212?v=4" width=150px alt="이도원"> |
 | [@kwonminseok242](https://github.com/kwonminseok242) | [@kxmdoyn](https://github.com/kxmdoyn) | [@siu001990](https://github.com/siu001990) | [@Shinjaewooo](https://github.com/Shinjaewooo)  |  [@seoyun0311](https://github.com/seoyun0311) | [@leedw21](https://github.com/leedw21) |
 
